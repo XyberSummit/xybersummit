@@ -645,7 +645,7 @@ textarea {
     margin: 0 auto;
     display: -ms-flexbox;
     display: -webkit-box;
-  /*  display: flex;*/
+    display: flex;
     -ms-flex-flow: row wrap;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
