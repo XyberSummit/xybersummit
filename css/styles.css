@@ -3111,6 +3111,9 @@ input::-moz-focus-inner {
     margin: 0 1rem;
 }
 
+.s-header__nav li.current a {
+    color: #ffffff;
+}
 
 /* ------------------------------------------------------------------- 
  * ## mobile menu toggle
